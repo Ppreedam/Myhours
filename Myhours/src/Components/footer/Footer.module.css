@@ -1,0 +1,22 @@
+.main{
+   background-color: #375d75;
+   color: white;
+   
+}
+
+
+
+.main1{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 20px;
+    padding-top: 30px;
+    padding-right: 30px;
+}
+.main1>div>p{
+    margin-top: 15px;
+}
+.main2{
+  text-align: center;
+padding-bottom: 30px;
+}

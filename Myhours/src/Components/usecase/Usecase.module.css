@@ -1,0 +1,24 @@
+.part1{
+   
+    width: 80%;
+    margin:auto;
+    text-align: center;
+    margin-top: 120px;
+}
+.part2{
+
+ 
+    width:80%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap:30px;
+    margin-top: 80px;
+    margin-bottom: 100px;
+}
+.part2>div{
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+    border-radius: 30px;
+    cursor: pointer;
+    margin-top: 10px;
+}
