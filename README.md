@@ -1,3 +1,2 @@
 # Myhours
-This project in UNIT-5 during constructive week.
-React tech is used in this project.
+Myhours project is created by myself and tech used react during constructive week in unit-04.
